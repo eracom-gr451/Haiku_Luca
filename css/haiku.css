@@ -1,0 +1,24 @@
+html {
+    font-size: 3.5em;
+    line-height: 1.4;
+    font-family: 'Cuprum', sans-serif;
+}
+
+p {
+    border-right: 1px solid #262626;
+    border-left: 1px solid #262626;
+    border-width: 1.5px;
+    display: inline-block;
+    width: 60%;
+    margin: 0 10% 0 10%;
+}
+
+    a:link {color: #262626;}
+    a:visited {color: #262626;}
+    a:hover, a:focus, a:active {color: #262626;
+}
+
+a:link { 
+    text-decoration:none; 
+}
+
